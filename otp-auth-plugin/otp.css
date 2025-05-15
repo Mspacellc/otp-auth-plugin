@@ -1,0 +1,5 @@
+
+.otp-tabs { display: flex; gap: 10px; margin-bottom: 10px; }
+.otp-tab input, .otp-tab button { display: block; width: 100%; margin: 6px 0; padding: 10px; }
+.otp-tabs button.active { background: #0073aa; color: white; }
+#otp-msg { color: red; font-weight: bold; text-align: center; }
